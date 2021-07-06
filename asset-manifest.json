@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/isim/static/css/main.60573360.chunk.css",
+    "main.js": "/isim/static/js/main.e86fb938.chunk.js",
+    "main.js.map": "/isim/static/js/main.e86fb938.chunk.js.map",
+    "runtime-main.js": "/isim/static/js/runtime-main.f885e328.js",
+    "runtime-main.js.map": "/isim/static/js/runtime-main.f885e328.js.map",
+    "static/js/2.16918c82.chunk.js": "/isim/static/js/2.16918c82.chunk.js",
+    "static/js/2.16918c82.chunk.js.map": "/isim/static/js/2.16918c82.chunk.js.map",
+    "index.html": "/isim/index.html",
+    "static/css/main.60573360.chunk.css.map": "/isim/static/css/main.60573360.chunk.css.map",
+    "static/js/2.16918c82.chunk.js.LICENSE.txt": "/isim/static/js/2.16918c82.chunk.js.LICENSE.txt",
+    "static/media/radaltback.c3176894.png": "/isim/static/media/radaltback.c3176894.png",
+    "static/media/radaltcover.6d39d1d0.png": "/isim/static/media/radaltcover.6d39d1d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f885e328.js",
+    "static/js/2.16918c82.chunk.js",
+    "static/css/main.60573360.chunk.css",
+    "static/js/main.e86fb938.chunk.js"
+  ]
+}
