@@ -1,3 +1,3 @@
-# A todo list written in React.
+# A radar altimeter gauge written in React.
 
-visit: https://mahebei.github.io/todo-list-react/ to run this program online.
+visit: https://mahebei.github.io/isim/ to run this program online.
